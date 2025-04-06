@@ -5,9 +5,9 @@ Proyek ini bertujuan untuk melakukan **analisis sentimen** terhadap ulasan pengg
 ---
 
 ## Dataset
-Dataset berupa kumpulan **ulasan pengguna aplikasi Canva** yang diperoleh melalui proses scraping menggunakan library `google-play-scraper`. Ulasan-ulasan ini kemudian diberi label sentimen secara manual atau otomatis:  
-- **Positif**  
-- **Negatif**  
+Dataset berupa kumpulan **ulasan pengguna aplikasi Canva** yang diperoleh melalui proses scraping menggunakan library `google-play-scraper`. Ulasan-ulasan ini kemudian diberi tiga label sentimen:
+- **Positif**
+- **Negatif**
 - **Netral**
 
 ---
@@ -17,8 +17,8 @@ Dataset berupa kumpulan **ulasan pengguna aplikasi Canva** yang diperoleh melalu
 2. **Preprocessing Teks** (cleansing, stopword removal, dll)
 3. **Ekstraksi Fitur** menggunakan TF-IDF dan BoW
 4. **Pelatihan Model** klasifikasi menggunakan:
-   - Logistic Regression  
-   - Random Forest  
+   - Logistic Regression
+   - Random Forest
    - LSTM (Long-Short Term Memory)
 5. **Evaluasi dan Perbandingan Akurasi**
 
@@ -47,8 +47,14 @@ dicoding_proyek_analisis_sentimen/
 
 ## Cara Menjalankan
 1. Instal seluruh library yang dibutuhkan
+
     `pip install -r requirements.txt`
+
 2. Jalankan file Scraping.ipynb
+
     `python Scraping.ipynb`
+
 3. Jalankan file Notebook_Pelatihan_Model.ipynb
+
     `python Notebook_Pelatihan_Model.ipynb`
+
