@@ -43,6 +43,8 @@ dicoding_proyek_analisis_sentimen/
 
 └── ulasan_canva.csv
 
+---
+
 ## Cara Menjalankan
 1. Instal seluruh library yang dibutuhkan
     `pip install -r requirements.txt`
