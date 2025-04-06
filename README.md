@@ -32,10 +32,15 @@ Model Long-Short Term Memory (LSTM) dengan pembagian data **80/20** menunjukkan 
 
 ## Struktur Folder
 dicoding_proyek_analisis_sentimen/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── Notebook_Pelatihan_Model.ipynb
+
 ├── Scraping.ipynb
+
 └── ulasan_canva.csv
 
 ## Cara Menjalankan
