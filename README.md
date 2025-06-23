@@ -46,32 +46,32 @@ dicoding_proyek_analisis_sentimen/
 
 ## Sentiment Analysis
 ### Sentiment Polarity on Data
-![Sentiment Polarity on Data](image.png)
+![Sentiment Polarity on Data](/images/image.png)
 > Based on the pie chart, the majority of reviews for the Canva application are positive (72.5%), indicating that most users had a good experience using the app. Additionally, there are negative sentiments (16.4%) and neutral sentiments (11.1%), suggesting that a small portion of users were dissatisfied, while others felt indifferent—neither unhappy nor particularly satisfied—with the service provided by the application.
 
-![Distribution of Sentiment Polarity](image-5.png)
+![Distribution of Sentiment Polarity](/images/image-5.png)
 >Based on the "Sentiment Class Distribution" visualization, the Positive sentiment dominates with 78,263 reviews, followed by the Negative sentiment with 17,741 reviews, and the Neutral sentiment with 11,996 reviews.
 
 ### Word Cloud of Reviews
 
 #### All Reviews
-![Word Cloud of All Review](image-1.png)
+![Word Cloud of All Review](/images/image-1.png)
 >Based on the word cloud visualization for all reviews, positive sentiment clearly dominates, indicating that the majority of users feel satisfied and supported by the Canva application.
 
 #### Negative Reviews
-![Word Cloud of Negative Reviews](image-2.png)
+![Word Cloud of Negative Reviews](/images/image-2.png)
 >Based on the word cloud visualization for negative reviews, words like "kesalahan" (error), "error", "lemot" (slow), "susah masuk" (hard to log in), and other technical issues are prominently featured as the main complaints. This suggests that many users experienced difficulties using Canva, likely due to technical problems, slow performance, or premium features. Expressions of disappointment are also evident in words such as "ribet" (complicated), "jelek" (bad), and "nyesel" (regret).
 
 #### Positive Reviews
-![Word Cloud of Positive Reviews](image-3.png)
+![Word Cloud of Positive Reviews](/images/image-3.png)
 >Based on the word cloud visualization for positive reviews, words such as "membantu" (helpful), "bermanfaat" (useful), and "memudahkan" (makes things easier) are strongly represented, indicating the app's usefulness to users. As a form of appreciation, many users express praise using words like "bagus" (good), "keren" (cool), "mantap" (awesome), and "terima kasih" (thank you).
 
 #### Neutral Reviews
-![Word Cloud of Neutral Reviews](image-4.png)
+![Word Cloud of Neutral Reviews](/images/image-4.png)
 >Based on the word cloud visualization for neutral reviews, the word cloud shows that "canva" is the most dominant term, which may indicate that users frequently mention the brand explicitly. This reflects a high level of awareness and usage among users. Additionally, words like "keren" (cool) and "membantu" (helpful) are also present, suggesting that while users recognize the app's strengths, their feedback lacks strong emotional tones. Some users also include suggestions and expectations, indicating that neutral sentiment often includes constructive feedback aimed at improving the application's quality.
 
 #### Most Frequent Words in Reviews
-![Word Cloud of Neutral Reviews](image-6.png)
+![Word Cloud of Neutral Reviews](/images/image-6.png)
 >Based on the visualization that highlights the top 20 most commonly used words, the term "membantu" (helpful) appears most frequently, with approximately 12,000 occurrences. This suggests that a significant number of users perceive the application as highly beneficial in their daily activities. Other frequently appearing words include "bagus" (good), "aplikasi" (application), "banget" (very), and "mudah" (easy). These words collectively indicate a predominantly positive sentiment toward the app, reinforcing its reputation as an accessible and effective tool for users.
 
 ## Data Splitting and Feature Extraction
